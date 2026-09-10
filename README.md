@@ -157,57 +157,66 @@ Features
 🔒 Zero-trust workflows
 </td> </tr> </table>
 
-# 🧠 Artificial Intelligence
+# 🧰 Technical Arsenal
 
-`Generative AI` `LLMs` `RAG` `Agentic AI` `Prompt Engineering`
-`LLM Evaluation` `Multimodal AI` `Gemini` `Hugging Face`
+### 🤖 Artificial Intelligence
 
-# 📊 Machine Learning
+`Generative AI` `LLMs` `RAG` `Agentic AI`
+`Prompt Engineering` `LLM Evaluation` `Multimodal AI`
+`Gemini` `Hugging Face`
 
-`Scikit-learn` `Classification` `Regression` `Feature Engineering`
-`Model Evaluation` `Model Optimization` `ML Pipelines`
+### 📊 Machine Learning
 
-# 🧠 Deep Learning
+`Scikit-learn` `Classification` `Regression`
+`Feature Engineering` `Model Evaluation`
+`Model Optimization` `ML Pipelines`
 
-`PyTorch` `TensorFlow` `CNN` `RNN` `LSTM` `Transformers`
+### 🧠 Deep Learning
 
-# 👁️ Computer Vision
+`PyTorch` `TensorFlow` `CNN` `RNN`
+`LSTM` `Transformers`
+
+### 👁️ Computer Vision
 
 `OpenCV` `YOLO` `MediaPipe` `DeepFace`
 
-`Object Detection` · `Image Segmentation` · `Facial Recognition` · `Real-Time Vision`
+`Object Detection` · `Image Segmentation`
+`Facial Recognition` · `Real-Time Vision`
 
-# 📝 NLP
+### 📝 Natural Language Processing
 
-`Whisper` `Hugging Face` `Transformers` `Embeddings`
-`Semantic Search` `Text Classification` `Sentiment Analysis`
+`Whisper` `Hugging Face` `Transformers`
+`Embeddings` `Semantic Search`
+`Text Classification` `Sentiment Analysis`
 
-# 💻 Software Development
+### 💻 Software Development
 
-**Languages:** `Python` `Java` `C` `SQL` `JavaScript`
+**Languages**
 
-**Backend:** `FastAPI` `Flask` `REST APIs`
+`Python` `Java` `C` `SQL` `JavaScript`
 
-**Frontend:** `React` `Vite` `HTML` `CSS` `JavaScript`
+**Backend**
 
-# ☁️ Cloud & DevOps
+`FastAPI` `Flask` `REST APIs`
 
-`Azure` `Docker` `Terraform` `GitHub Actions` `Grafana`
+**Frontend**
 
-- Azure Container Apps
-- Azure Static Web Apps
-- Azure Container Registry
-- Infrastructure as Code
-- CI/CD
-- Monitoring & observability
+`React` `Vite` `HTML` `CSS` `JavaScript`
 
-# 🔐 Cybersecurity
+### ☁️ Cloud & DevOps
 
-`Phishing Detection` `Social Engineering Detection`
-`Vulnerability Analysis` `Risk Management` `Compliance`
-`Security AI`
+`Azure` `Docker` `Terraform`
+`GitHub Actions` `Grafana`
 
----
+`Azure Container Apps` · `Azure Static Web Apps`
+`Azure Container Registry` · `CI/CD`
+`Infrastructure as Code` · `Monitoring`
+
+### 🔐 Cybersecurity
+
+`Phishing Detection` `Social Engineering`
+`Vulnerability Analysis` `Risk Management`
+`Compliance` `Security AI`
 
 # 🧩 Problem Solving
 

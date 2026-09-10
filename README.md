@@ -52,118 +52,110 @@ Working on enterprise knowledge and retrieval systems.
 
 # 🚀 Featured Projects
 
-## 🎓 VidLearn AI
 
-**Turn videos into structured learning material.**
+<table>
+<tr>
+<td width="50%">
 
-AI-powered learning platform that converts YouTube URLs and uploaded videos into:
+### 🎓 VidLearn AI
 
-`Notes` · `Summaries` · `Flashcards` · `Quizzes` · `Key Concepts` · `Mind Maps`
+AI-powered learning platform that converts videos into structured study material.
 
-**Stack:** `React` `FastAPI` `Python` `Gemini 2.5 Flash-Lite` `Whisper` `SQLite` `Docker` `Terraform` `Azure`
+**Tech**
+`React` `FastAPI` `Gemini` `Whisper`
+`SQLite` `Azure` `Docker` `Terraform`
 
-**Highlights**
-- 🎥 Gemini-based YouTube video processing
-- 🎙️ Local Whisper speech-to-text for uploaded videos
-- 🧠 AI-generated study material
-- 🔐 JWT authentication
-- ⚡ SHA-256 smart caching to avoid repeated AI generation
-- ☁️ Azure Container Apps + Static Web Apps
-- 🔄 GitHub Actions CI/CD
-- 🏗️ Terraform infrastructure
+**Features**
+- 🎥 YouTube & uploaded video processing
+- 🧠 AI-generated notes & summaries
+- 📝 Flashcards & quizzes
+- 🗺️ Mind maps & key concepts
+- ⚡ Smart SHA-256 caching
+- ☁️ Azure deployment
 
----
+</td>
 
-## 🔎 RAG-Based Chatbot
+<td width="50%">
 
-**Grounding LLM responses in external documents.**
+### 🔎 RAG-Based Chatbot
 
-```text
-Documents
-   ↓
-Ingestion → Chunking → Embeddings → Vector Index
-   ↓
-Similarity Retrieval
-   ↓
-Context + Prompt
-   ↓
-TinyLlama-1.1B-Chat
-   ↓
-Grounded Response
-```
+Document-grounded chatbot using retrieval-augmented generation.
 
-**Stack:** `Python` `TinyLlama-1.1B-Chat` `E5-Small-v2` `Vector Search`
+**Tech**
+`Python` `TinyLlama` `E5-Small-v2`
+`Vector Search`
 
----
 
-## 🛡️ PhishGuard AI
 
-**AI-powered phishing and social-engineering detection.**
+**Pipeline**
 
-Full-stack cybersecurity application combining a Chrome extension with an AI backend.
+`Documents` → `Embeddings` → `Vector Search` → `Context` → `LLM`
+</td> </tr> <tr> <td width="50%">
+🛡️ PhishGuard AI
 
-**Stack:** `JavaScript` `Chrome Extension` `Flask` `REST API` `Gemini`
+AI-powered phishing and social-engineering detection system.
 
-- 📧 Gmail phishing analysis
-- 🧠 Semantic social-engineering analysis
-- 🚨 Intent classification
-- 📊 Structured risk reports
-- ⚡ Real-time detection
+Tech
+JavaScript Chrome Extension
+Flask Gemini
 
----
+Features
 
-## 👁️ AI Classroom Monitoring System
+📧 Gmail phishing analysis
+🧠 Semantic analysis
+🚨 Social-engineering detection
+📊 Risk reports
+⚡ Real-time analysis
+</td> <td width="50%">
+👁️ AI Classroom Monitoring
 
-**Real-time classroom analytics using computer vision.**
+Real-time classroom analytics using computer vision.
 
-**Stack:** `YOLO` `MediaPipe` `DeepFace` `OpenCV` `MongoDB` `Python`
+Tech
+YOLO MediaPipe DeepFace
+OpenCV MongoDB
 
-- 👤 Student identification
-- 👀 Face and eye tracking
-- 📱 Phone/distraction detection
-- 📈 Session-level metrics
-- 🔔 Automated alerts
-- 🎯 Temporal smoothing for fewer false positives
+Features
 
----
+👤 Student identification
+👀 Face & eye tracking
+📱 Phone detection
+📈 Session analytics
+🔔 Automated alerts
+</td> </tr> <tr> <td width="50%">
+🧾 Multimodal Claim Investigator
 
-## 🧾 Multimodal Claim Investigator
+AI system for investigating insurance claims across multiple data types.
 
-**AI-assisted insurance claim investigation across multiple modalities.**
+Tech
+Gemini ChromaDB
+Multimodal Embeddings FastAPI
 
-```text
-Images ──┐
-Videos ──┤
-Audio  ──┼──→ Multimodal Retrieval → Investigation Report
-Docs   ──┘
-```
+Features
 
-**Stack:** `Gemini` `ChromaDB` `Multimodal Embeddings` `FastAPI` `Python`
+🖼️ Image analysis
+🎥 Video analysis
+🎙️ Audio processing
+📄 Document analysis
+🔎 Cross-modal retrieval
+📝 AI investigation reports
+</td> <td width="50%">
+🏥 Patient-First Health Advocate
 
-- 🖼️ Image analysis
-- 🎥 Video analysis
-- 🎙️ Audio processing
-- 📄 Document analysis
-- 🔎 Cross-modal retrieval
-- 📝 AI-generated investigation reports
-- 🔗 Source citations
+Privacy-focused AI agent for health-monitoring workflows.
 
----
+Tech
+Gemini Auth0 Google Fit
+OAuth Agentic AI
 
-## 🏥 Patient-First Health Advocate Agent
+Features
 
-**Privacy-focused AI agent for health-monitoring workflows.**
-
-**Stack:** `Gemini` `Auth0` `Google Fit` `OAuth` `Agentic AI` `SMS`
-
-- 🔐 Secure OAuth token management
-- ❤️ Heart-rate monitoring
-- 🚨 Threshold-based alerts
-- 🧠 AI-generated trend summaries
-- 🔒 Zero-trust sensitive workflows
-- 👆 Biometric step-up authentication
-
----
+🔐 Secure OAuth
+❤️ Vital monitoring
+🚨 Threshold alerts
+🧠 AI trend summaries
+🔒 Zero-trust workflows
+</td> </tr> </table>
 
 # 🧠 Artificial Intelligence
 

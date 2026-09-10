@@ -240,7 +240,7 @@ Sharpening algorithmic thinking through DSA and competitive-programming style pr
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sarveshraghavan/sarveshraghavan/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/sarveshraghavan/sarveshraghavan/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 
 </div>
 

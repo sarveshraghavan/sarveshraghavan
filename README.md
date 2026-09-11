@@ -19,36 +19,27 @@
 
 ---
 
-## ⚡ Currently Building
-
-<pre>
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  $ whoami                                                  │
-│  Sarvesh Raghavan                                          │
-│                                                            │
-│  $ role                                                    │
-│  AI/ML Intern @ Prosapient AI                              │
-│                                                            │
-│  $ currently_building                                      │
-│  Enterprise RAG + Agentic AI                               │
-│                                                            │
-│  $ interests                                               │
-│  AI · ML · Deep Learning · Computer Vision · NLP           │
-│                                                            │
-│  $ philosophy                                              │
-│  Build → Break → Learn → Build Again                       │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-</pre>
+<div align="center">
+<img src="./assets/terminal.svg" alt="Animated terminal profile" width="850"/>
+</div>
 
 ---
 
-## `$ neofetch sarvesh`
+## ⚡ Currently Building
 
-<div align="center">
-<img src="./info-card.svg" alt="Sarvesh terminal profile card" width="900"/>
-</div>
+<pre>
+$ role
+AI/ML Intern @ Prosapient AI
+
+$ currently_building
+Enterprise RAG + Agentic AI
+
+$ interests
+AI · ML · Deep Learning · Computer Vision · NLP
+
+$ philosophy
+Build → Break → Learn → Build Again
+</pre>
 
 ---
 

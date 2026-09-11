@@ -25,24 +25,6 @@
 
 ---
 
-## ⚡ Currently Building
-
-<pre>
-$ role
-AI/ML Intern @ Prosapient AI
-
-$ currently_building
-Enterprise RAG + Agentic AI
-
-$ interests
-AI · ML · Deep Learning · Computer Vision · NLP
-
-$ philosophy
-Build → Break → Learn → Build Again
-</pre>
-
----
-
 ## 🧑‍💻 About Me
 
 I'm a Computer Science Engineering student focused on building practical AI systems and turning ideas into working applications.
